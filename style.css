@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form1 {
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+input {
+    width: 50%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+label {
+    margin-left: 220px;
+}
+
+#name {
+    margin-left: 20px;
+}
+
+#text {
+    margin-left: 20px;
+}
+
+#submit {
+    text-align: center;
+    margin-left: 340px;
+}
+
+.error-msg {
+    color: red;
+    font-size: 15px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 300px;
+}
